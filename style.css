@@ -5,10 +5,6 @@
   box-sizing: border-box;
   font-family: 'Poppins',sans-serif;
 }
-::selection{
-  color: #000;
-  background: #fff;
-}
 nav{
   position: fixed;
   background: linear-gradient(120deg,#cdeaf2 20.69%,#327076 50.19%,#07566d 79.69%);
